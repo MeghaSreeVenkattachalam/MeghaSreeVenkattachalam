@@ -15,17 +15,7 @@ Computer Science and Engineering Student
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 ## Tools and IDEs I Use
-## Tools and IDEs I Use:
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="100" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/> <img height="50" width="100" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_Workbench_Logo.png" alt="mysql"/> 
 
-- [![VS Code Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Visual_Studio_Code_1.35_icon.svg)](https://code.visualstudio.com/)
-- [![IntelliJ IDEA Logo](https://upload.wikimedia.org/wikipedia/commons/4/44/IntelliJ_IDEA_Logo.png)](https://www.jetbrains.com/idea/)
-- [![Notepad++ Logo](https://upload.wikimedia.org/wikipedia/commons/3/32/Notepad%2B%2B_logo.png)](https://notepad-plus-plus.org/)
-- [![Jupyter Logo](https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg)](https://jupyter.org/)
-- [![Spyder Logo](https://upload.wikimedia.org/wikipedia/commons/a/a0/Spyder_logo.svg)](https://www.spyder-ide.org/)
-- [![Anaconda Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Anaconda_logo.svg/800px-Anaconda_logo.svg.png)](https://www.anaconda.com/)
-- [![Google Colab Logo](https://upload.wikimedia.org/wikipedia/commons/4/47/Google_Colab_logo.svg)](https://colab.research.google.com/)
-- [![MySQL Logo](https://upload.wikimedia.org/wikipedia/commons/0/0d/MySQL_logo.svg)](https://www.mysql.com/)
-- [![Figma Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Figma-logo.svg)](https://www.figma.com/)
-- [![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)](https://www.python.org/)
-- [![Turbo C Logo](https://upload.wikimedia.org/wikipedia/commons/3/3e/Turbo_C_logo.png)](https://archive.org/details/turboc3)
+
 
