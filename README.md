@@ -12,4 +12,5 @@ Computer Science and Engineering Student
 - ## My GitHub and LinkedIn Stats
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0e76a8?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/meghasree-v/)
+![LinkedIn Followers](https://img.shields.io/badge/LinkedIn-Followers_1000-0e76a8?style=flat-square&logo=linkedin&logoColor=white)
 
