@@ -21,5 +21,4 @@ Computer Science and Engineering Student
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Megha_Sree_Venkattachalam?theme=dark&font=Gentium%20Basic&ext=heatmap)
 
-![Megha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MeghaSreeVenkattachalam &bg_color=000000&color=ffffff&line=0fff77&point=fcfcfc&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![Megha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MeghaSreeVenkattachalam &bg_color=000000&color=ffffff&line=0fff77&point=fcfcfc&area=true&hide_border=true)(https://github.com/MeghaSreeVenkattachalam/github-readme-activity-graph)
