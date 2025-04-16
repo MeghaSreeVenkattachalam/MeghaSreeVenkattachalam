@@ -15,8 +15,11 @@ Computer Science and Engineering Student
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 ## 🏅 Certifications
+
 ### [Introduction to Generative AI – AWS Educate](https://www.credly.com/badges/24088772-ef7b-4651-b319-bad87cb2619a/public_url)
-[![AWS Badge](https://images.credly.com/size/340x340/images/24088772-ef7b-4651-b319-bad87cb2619a/image.png)](https://www.credly.com/badges/24088772-ef7b-4651-b319-bad87cb2619a/public_url)
+
+[![AWS Badge](https://images.credly.com/size/340x340/images/7e5e8b28-d0e3-4667-89a2-88bd518b33bd/image.png)](https://www.credly.com/badges/24088772-ef7b-4651-b319-bad87cb2619a/public_url)
+
 
 
 ## Tools and IDEs I Use
