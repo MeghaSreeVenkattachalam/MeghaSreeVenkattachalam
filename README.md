@@ -14,14 +14,6 @@ Computer Science and Engineering Student
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
-## 🏅 Certifications
-
-### [Introduction to Generative AI – AWS Educate](https://www.credly.com/badges/24088772-ef7b-4651-b319-bad87cb2619a/public_url)
-
-[![AWS Badge](https://images.credly.com/size/340x340/images/7e5e8b28-d0e3-4667-89a2-88bd518b33bd/image.png)](https://www.credly.com/badges/24088772-ef7b-4651-b319-bad87cb2619a/public_url)
-
-
-
 ## Tools and IDEs I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="150" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/> <img height="50" width="150" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img width="50" height="50" src="https://www.logolynx.com/images/logolynx/38/38e551942fc7b62ce1076546e25ece92.png" alt="mysql"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" alt="python ide"/> <img width="70" height="50" src="https://vinciai.academy/wp-content/uploads/2022/08/jupyter.png" alt="jupiter-notebook"/> <img width="50" height="50" src="https://user-images.githubusercontent.com/13848158/155354329-cf7c3352-a72a-478d-82a7-04e3833b03b7.png" alt="google-colab"/> 
 
